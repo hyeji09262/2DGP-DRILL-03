@@ -60,3 +60,5 @@ while True:
     move_triangle()
 
 close_canvas()
+
+#작동 확인
