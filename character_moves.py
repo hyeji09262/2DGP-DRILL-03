@@ -78,8 +78,8 @@ def draw_boy(x: float, y: float):
 
 
 while True:
-    # move_circle()
-    # move_ractangle()
+    move_circle()
+    move_ractangle()
     move_triangle()
 
     break
