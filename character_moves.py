@@ -82,8 +82,7 @@ while True:
     move_ractangle()
     move_triangle()
 
-    break
-    # pass
+    pass
 
 
 close_canvas()
