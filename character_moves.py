@@ -60,7 +60,16 @@ def move_circle():
 
 def move_triangle():
     print("move triangle")
-
+    for x in range(100, 350, 5):
+        y = (4/5) * x
+        draw_boy(x, y)
+    for x in range(350, 650, 5):
+        y = (-4/5) * x + 560
+        draw_boy(x,y)
+    for x in range(650, 100, -5):
+        y = 50
+        draw_boy(x,y)
+    pass
 
 def draw_boy(x: float, y: float):
     clear_canvas_now()
