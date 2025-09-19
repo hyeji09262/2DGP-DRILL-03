@@ -6,21 +6,17 @@ open_canvas()
 
 
 def move_ractangle():
+    print("move rectangle")
     pass
 
 
 
 def move_circle():
+    print("move circle")
     pass
-
-
-circle()
 
 while True:
     move_ractangle()
-
-
-
 
     pass
 
