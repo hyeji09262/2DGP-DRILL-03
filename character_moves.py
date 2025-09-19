@@ -17,7 +17,7 @@ def move_circle():
 
 while True:
     move_ractangle()
-
+    move_circle()
     pass
 
 
